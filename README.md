@@ -27,7 +27,19 @@ a simple calendar application that allows a user to save events for each hour of
 - THEN the saved events persist
 ```
 
-# Mock-up
+# ScreenShot
+![hw 5 ss](https://user-images.githubusercontent.com/80983324/115961928-a2b5b380-a4cd-11eb-90e9-c10e3611ebf0.png)
+
+# Github link
+https://nitinvemuri.github.io/hw5/
+
+# Github Repository
+https://github.com/nitinvemuri/hw5
+
+# Mock Up
+![05-third-party-apis-homework-demo](https://user-images.githubusercontent.com/80983324/115961942-b95c0a80-a4cd-11eb-94f9-a2ba57fdaba3.gif)
+
+
 
 # Grading Requirements
 This challenge is graded based on the following criteria:
