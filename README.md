@@ -1,4 +1,4 @@
-# hw5
+# HW5 - Third-Party API's
 
 ## Description
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
